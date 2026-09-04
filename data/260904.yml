@@ -7,7 +7,7 @@ about:
   head: e937598
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:58:08Z
+  collectedAt: 2026-09-04T20:46:36Z
 timeline:
   created: 2015-04-16
   lastCommit: 2026-09-04
@@ -38,7 +38,7 @@ recent:
     since: 2026-08-05
     release: 0
     mergedPR: 104
-    openPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 234
@@ -46,7 +46,7 @@ recent:
     since: 2026-07-06
     release: 0
     mergedPR: 185
-    openPR: 2
+    openPR: 3
     closedIssue: 0
     openIssue: 0
     commit: 390
@@ -54,7 +54,7 @@ recent:
     since: 2026-06-06
     release: 0
     mergedPR: 254
-    openPR: 4
+    openPR: 5
     closedIssue: 0
     openIssue: 0
     commit: 542
@@ -62,7 +62,7 @@ recent:
     since: 2026-03-08
     release: 0
     mergedPR: 424
-    openPR: 5
+    openPR: 6
     closedIssue: 0
     openIssue: 0
     commit: 1279
@@ -70,7 +70,7 @@ recent:
     since: 2025-09-09
     release: 0
     mergedPR: 490
-    openPR: 7
+    openPR: 8
     closedIssue: 0
     openIssue: 0
     commit: 1612
@@ -78,7 +78,7 @@ recent:
     since: 2024-09-14
     release: 0
     mergedPR: 636
-    openPR: 7
+    openPR: 8
     closedIssue: 0
     openIssue: 0
     commit: 2367
@@ -90,6 +90,99 @@ total:
   openIssue: 0
   commit: 23481
 ---
+path: /home/runner/.x-repo/github.com/apache/groovy
+collectedAt: 2026-09-04T20:46:52Z
+loc:
+  Groovy:
+    code: 334242
+    comments: 95892
+    blanks: 54599
+    files: 3078
+  Java:
+    code: 247843
+    comments: 192301
+    blanks: 43655
+    files: 2187
+  AsciiDoc:
+    code: 46167
+    comments: 385
+    blanks: 13640
+    files: 116
+  Xml:
+    code: 4258
+    comments: 523
+    blanks: 97
+    files: 19
+  Css:
+    code: 3786
+    comments: 86
+    blanks: 931
+    files: 6
+  Json:
+    code: 3778
+    comments: 0
+    blanks: 0
+    files: 3
+  Html:
+    code: 2938
+    comments: 1443
+    blanks: 98
+    files: 68
+  JavaScript:
+    code: 1292
+    comments: 670
+    blanks: 173
+    files: 19
+  Yaml:
+    code: 321
+    comments: 85
+    blanks: 33
+    files: 4
+  Python:
+    code: 297
+    comments: 79
+    blanks: 57
+    files: 2
+  Pan:
+    code: 187
+    comments: 0
+    blanks: 9
+    files: 9
+  Sh:
+    code: 107
+    comments: 119
+    blanks: 26
+    files: 1
+  Batch:
+    code: 73
+    comments: 0
+    blanks: 21
+    files: 1
+  Svg:
+    code: 30
+    comments: 0
+    blanks: 0
+    files: 30
+  Bitbake:
+    code: 3
+    comments: 27
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3193
+    blanks: 610
+    files: 10
+  Text:
+    code: 0
+    comments: 1491
+    blanks: 373
+    files: 66
+total:
+  code: 645711
+  comments: 296317
+  blanks: 114342
+  files: 5620
 ---
 date: "2026-08-24"
 repo:

@@ -2,16 +2,16 @@ about:
   description: "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
   license: Apache-2.0
   homepage: https://groovy-lang.org
-  head: e28ead4
+  head: 6ca51a4
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:53:44Z
+  collectedAt: 2026-09-07T18:51:07Z
 timeline:
   created: 2015-04-16
   lastCommit: 2026-09-07
   lastRelease: 
 popularity:
-  star: 5465
+  star: 5466
   watcher: 225
   fork: 1916
   release: 0
@@ -19,8 +19,8 @@ popularity:
   pullRequest: 2889
   issue: 0
 language:
-  Java: 19053188
-  Groovy: 16787342
+  Java: 19054248
+  Groovy: 16788043
   Shell: 96700
   HTML: 90067
   ANTLR: 64498
@@ -30,7 +30,7 @@ language:
   Go Template: 5921
   JavaScript: 4659
   Smarty: 1904
-totalBytes: 36201592
+totalBytes: 36203353
 recent:
   last30d:
     since: 2026-08-08
@@ -39,7 +39,7 @@ recent:
     openPR: 6
     closedIssue: 0
     openIssue: 0
-    commit: 249
+    commit: 254
   last60d:
     since: 2026-07-09
     release: 0
@@ -47,7 +47,7 @@ recent:
     openPR: 7
     closedIssue: 0
     openIssue: 0
-    commit: 398
+    commit: 403
   last90d:
     since: 2026-06-09
     release: 0
@@ -55,7 +55,7 @@ recent:
     openPR: 10
     closedIssue: 0
     openIssue: 0
-    commit: 549
+    commit: 554
   last180d:
     since: 2026-03-11
     release: 0
@@ -63,7 +63,7 @@ recent:
     openPR: 11
     closedIssue: 0
     openIssue: 0
-    commit: 1320
+    commit: 1325
   last360d:
     since: 2025-09-12
     release: 0
@@ -71,7 +71,7 @@ recent:
     openPR: 13
     closedIssue: 0
     openIssue: 0
-    commit: 1654
+    commit: 1659
   last720d:
     since: 2024-09-17
     release: 0
@@ -79,36 +79,36 @@ recent:
     openPR: 13
     closedIssue: 0
     openIssue: 0
-    commit: 2418
+    commit: 2423
 total:
   release: 0
   mergedPR: 1617
   openPR: 15
   closedIssue: 0
   openIssue: 0
-  commit: 23533
+  commit: 23538
 ---
 path: /home/runner/.x-repo/github.com/apache/groovy
-collectedAt: 2026-09-07T05:54:27Z
+collectedAt: 2026-09-07T18:51:49Z
 loc:
   Groovy:
-    code: 335308
-    comments: 96648
-    blanks: 54778
+    code: 335319
+    comments: 96650
+    blanks: 54779
     files: 3086
   Java:
-    code: 250302
-    comments: 192831
+    code: 250328
+    comments: 192837
     blanks: 43890
     files: 2195
   AsciiDoc:
-    code: 46313
+    code: 46322
     comments: 385
-    blanks: 13679
+    blanks: 13680
     files: 116
   Xml:
-    code: 4292
-    comments: 622
+    code: 4294
+    comments: 626
     blanks: 107
     files: 21
   Json:
@@ -168,8 +168,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 3249
-    blanks: 610
+    comments: 3259
+    blanks: 612
     files: 10
   Text:
     code: 0
@@ -177,9 +177,9 @@ loc:
     blanks: 373
     files: 66
 total:
-  code: 649425
-  comments: 297758
-  blanks: 114805
+  code: 649473
+  comments: 297780
+  blanks: 114809
   files: 5639
 ---
 date: "2026-08-24"
@@ -363,7 +363,7 @@ checks:
       - 'Info: all commits (11) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:54:31+00:00
+  collectedAt: 2026-09-07T18:51:51+00:00
   platform:
     darwin/arm64:
       name:  null

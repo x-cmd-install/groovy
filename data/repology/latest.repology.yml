@@ -1,0 +1,1562 @@
+- repo: parrot
+  subrepo: parrot/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: groovy-docs
+  binname: groovy-docs
+  visiblename: groovy-docs
+  version: 5.1.0
+  origversion: 5.1.0-1
+  status: outdated
+  summary: Documentation for the Groovy programming language
+  licenses:
+    - Apache-2.0
+- repo: pld
+  srcname: groovy
+  visiblename: groovy
+  version: 3.0.7
+  origversion: 3.0.7-2
+  status: outdated
+- repo: openindiana
+  subrepo: hipster
+  srcname: groovy
+  binname: developer/groovy-40
+  visiblename: groovy
+  version: 4.0.31
+  origversion: null
+  status: legacy
+  summary: Groovy is a Java-based scripting language
+  categories:
+    - Development/Java
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.1.0
+  origversion: 5.1.0-1
+  status: outdated
+  summary: Programming language for the Java platform, inspired by Python, Ruby and Smalltalk
+  licenses:
+    - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: groovy-docs
+  binname: groovy-docs
+  visiblename: groovy-docs
+  version: 5.1.2
+  origversion: 5.1.2-1
+  status: newest
+  summary: Documentation for the Groovy programming language
+  licenses:
+    - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.1.2
+  origversion: 5.1.2-1
+  status: newest
+  summary: Programming language for the Java platform, inspired by Python, Ruby and Smalltalk
+  licenses:
+    - Apache-2.0
+- repo: openindiana
+  subrepo: hipster
+  srcname: groovy
+  binname: developer/groovy-40
+  visiblename: groovy
+  version: 4.0.32
+  origversion: null
+  status: legacy
+  summary: Groovy is a Java-based scripting language
+  categories:
+    - Development/Java
+- repo: archpower_powerpc
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.0.4
+  origversion: 5.0.4-1
+  status: outdated
+  summary: Programming language for the Java platform, inspired by Python, Ruby and Smalltalk
+  licenses:
+    - Apache-2.0
+- repo: archpower_powerpc64le
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.0.4
+  origversion: 5.0.4-1
+  status: outdated
+  summary: Programming language for the Java platform, inspired by Python, Ruby and Smalltalk
+  licenses:
+    - Apache-2.0
+- repo: apertis_v2023
+  subrepo: v2023/sdk
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-1+apertis1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+- repo: apertis_v2024
+  subrepo: v2024/development
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-8+apertis1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+- repo: apertis_v2025
+  subrepo: v2025/development
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-8+apertis1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+- repo: artix
+  subrepo: world
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.1.0
+  origversion: 5.1.0-1
+  status: outdated
+  summary: Programming language for the Java platform, inspired by Python, Ruby and Smalltalk
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: groovy
+  visiblename: Groovy
+  version: 3.0.25
+  origversion: null
+  status: outdated
+  summary: Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform.
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: openindiana
+  subrepo: hipster
+  srcname: groovy
+  binname: developer/groovy-40
+  visiblename: groovy
+  version: 4.0.33
+  origversion: null
+  status: legacy
+  summary: Groovy is a Java-based scripting language
+  categories:
+    - Development/Java
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-8
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: debian_14
+  subrepo: forky/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: deepin_23
+  subrepo: main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: deepin_25
+  subrepo: main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: freebsd
+  srcname: lang/groovy
+  binname: groovy
+  visiblename: lang/groovy
+  version: 2.4.21
+  origversion: 2.4.21_2
+  status: outdated
+  summary: Agile dynamic language for the JVM
+  maintainers:
+    - egypcio@freebsd.org
+  categories:
+    - lang
+- repo: gobolinux
+  srcname: Groovy
+  visiblename: Groovy
+  version: 1.6.7_bin
+  origversion: null
+  status: outdated
+  summary: Groovy is an agile langue which can leverage the JVM.
+  licenses:
+    - Apache License v2.0, see LICENSE.txt
+- repo: homebrew
+  srcname: groovy
+  visiblename: groovy
+  version: 5.1.2
+  origversion: null
+  status: newest
+  summary: Java-based scripting language
+- repo: homebrew
+  srcname: groovysdk
+  visiblename: groovysdk
+  version: 5.1.2
+  origversion: null
+  status: newest
+  summary: 'SDK for Groovy: a Java-based scripting language'
+- repo: kali_rolling
+  subrepo: main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: macports
+  srcname: lang/groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.1.1
+  origversion: null
+  status: outdated
+  summary: Groovy -- a Java-based scripting language
+  maintainers:
+    - breun@macports
+    - breun@github
+  licenses:
+    - Apache-2
+  categories:
+    - lang
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.1.0
+  origversion: 5.1.0-1
+  status: outdated
+  summary: Programming language for the Java platform, inspired by Python, Ruby and Smalltalk
+  licenses:
+    - Apache-2.0
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: groovy-docs
+  binname: groovy-docs
+  visiblename: groovy-docs
+  version: 5.1.0
+  origversion: 5.1.0-1
+  status: outdated
+  summary: Documentation for the Groovy programming language
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: groovy-docs
+  binname: groovy-docs
+  visiblename: groovy-docs
+  version: 5.1.0
+  origversion: 5.1.0-1
+  status: outdated
+  summary: Documentation for the Groovy programming language
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.1.0
+  origversion: 5.1.0-1
+  status: outdated
+  summary: Programming language for the Java platform, inspired by Python, Ruby and Smalltalk
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: groovy
+  visiblename: groovy
+  version: 3.0.11
+  origversion: null
+  status: outdated
+  summary: An agile dynamic language for the Java Platform
+  maintainers:
+    - mail@pascal-wittmann.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: groovy
+  visiblename: groovy
+  version: 4.0.23
+  origversion: null
+  status: outdated
+  summary: Agile dynamic language for the Java Platform
+  maintainers:
+    - mail@pascal-wittmann.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: groovy
+  visiblename: groovy
+  version: 4.0.26
+  origversion: null
+  status: outdated
+  summary: Agile dynamic language for the Java Platform
+  maintainers:
+    - mail@pascal-wittmann.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: groovy
+  visiblename: groovy
+  version: 5.0.2
+  origversion: null
+  status: outdated
+  summary: Agile dynamic language for the Java Platform
+  maintainers:
+    - mail@pascal-wittmann.de
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: groovy
+  visiblename: groovy
+  version: 5.0.4
+  origversion: null
+  status: outdated
+  summary: Agile dynamic language for the Java Platform
+  maintainers:
+    - mail@pascal-wittmann.de
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: groovy
+  visiblename: groovy
+  version: 5.0.4
+  origversion: null
+  status: outdated
+  summary: Agile dynamic language for the Java Platform
+  maintainers:
+    - mail@pascal-wittmann.de
+  licenses:
+    - Apache-2.0
+- repo: pardus_21
+  subrepo: main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: openindiana
+  subrepo: hipster
+  srcname: groovy
+  binname: developer/groovy-50
+  visiblename: groovy
+  version: 5.0.5
+  origversion: null
+  status: legacy
+  summary: Groovy is a Java-based scripting language
+  categories:
+    - Development/Java
+- repo: openindiana
+  subrepo: hipster
+  srcname: groovy
+  binname: developer/groovy-50
+  visiblename: groovy
+  version: 5.0.6
+  origversion: null
+  status: legacy
+  summary: Groovy is a Java-based scripting language
+  categories:
+    - Development/Java
+- repo: openindiana
+  subrepo: hipster
+  srcname: groovy
+  binname: developer/groovy-50
+  visiblename: groovy
+  version: 5.0.7
+  origversion: null
+  status: legacy
+  summary: Groovy is a Java-based scripting language
+  categories:
+    - Development/Java
+- repo: openindiana
+  subrepo: hipster
+  srcname: groovy
+  binname: developer/groovy-50
+  visiblename: groovy
+  version: 5.0.8
+  origversion: null
+  status: legacy
+  summary: Groovy is a Java-based scripting language
+  categories:
+    - Development/Java
+- repo: openindiana
+  subrepo: hipster
+  srcname: groovy
+  binname: developer/groovy-50
+  visiblename: groovy
+  version: 5.1.0
+  origversion: null
+  status: legacy
+  summary: Groovy is a Java-based scripting language
+  categories:
+    - Development/Java
+- repo: openindiana
+  subrepo: hipster
+  srcname: groovy
+  binname: developer/groovy-50
+  visiblename: groovy
+  version: 5.1.1
+  origversion: null
+  status: outdated
+  summary: Groovy is a Java-based scripting language
+  categories:
+    - Development/Java
+- repo: openpkg_current
+  srcname: groovy
+  visiblename: groovy
+  version: 5.0.3
+  origversion: null
+  status: outdated
+  summary: Groovy Java Scripting Language
+  licenses:
+    - BSD-style
+  categories:
+    - Language
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: groovy
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-150200.3.7.4
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND SUSE-Public-Domain AND CC-BY-2.5
+  categories:
+    - Development/Libraries/Java
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: groovy
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-150200.3.7.4
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - Apache-2.0 AND BSD-3-Clause AND EPL-1.0 AND SUSE-Public-Domain AND CC-BY-2.5
+  categories:
+    - Development/Libraries/Java
+- repo: parabola
+  subrepo: extra
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.1.0
+  origversion: 5.1.0-1
+  status: outdated
+  summary: Programming language for the Java platform, inspired by Python, Ruby and Smalltalk
+  licenses:
+    - Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: groovy-docs
+  binname: groovy-docs
+  visiblename: groovy-docs
+  version: 5.1.0
+  origversion: 5.1.0-1
+  status: outdated
+  summary: Documentation for the Groovy programming language
+  licenses:
+    - Apache-2.0
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-8
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: raspbian_stable
+  subrepo: main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: raspbian_testing
+  subrepo: main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+- repo: scoop
+  subrepo: main
+  binname: groovy
+  visiblename: groovy
+  version: 5.1.2
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: termux
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 4.0.26
+  origversion: null
+  status: outdated
+  summary: A powerful multi-faceted programming language for the JVM platform
+  maintainers:
+    - termux@github
+- repo: terra_39
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 4.0.24
+  origversion: 4.0.24-1.fc39
+  status: outdated
+  summary: A multi-faceted language for the Java platform
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: terra_39
+  srcname: groovy-docs
+  binname: groovy-docs
+  visiblename: groovy-docs
+  version: 4.0.24
+  origversion: 4.0.24-1.fc39
+  status: outdated
+  summary: Documentation for the Groovy programming language
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: terra_40
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 4.0.27
+  origversion: 4.0.27-1.fc40
+  status: outdated
+  summary: A multi-faceted language for the Java platform
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: terra_40
+  srcname: groovy-docs
+  binname: groovy-docs
+  visiblename: groovy-docs
+  version: 4.0.27
+  origversion: 4.0.27-1.fc40
+  status: outdated
+  summary: Documentation for the Groovy programming language
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.0.3
+  origversion: 5.0.3-1.fc41
+  status: outdated
+  summary: A multi-faceted language for the Java platform
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: groovy-docs
+  binname: groovy-docs
+  visiblename: groovy-docs
+  version: 5.0.3
+  origversion: 5.0.3-1.fc41
+  status: outdated
+  summary: Documentation for the Groovy programming language
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 5.1.2
+  origversion: 5.1.2-1.fcrawhide
+  status: newest
+  summary: A multi-faceted language for the Java platform
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: groovy-docs
+  binname: groovy-docs
+  visiblename: groovy-docs
+  version: 5.1.2
+  origversion: 5.1.2-1.fcrawhide
+  status: newest
+  summary: Documentation for the Groovy programming language
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: trisquel_11_0
+  subrepo: aramo/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10build1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.21
+  origversion: 2.4.21-10build1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+- repo: wikidata
+  srcname: Q504453
+  visiblename: Apache Groovy
+  version: 5.1.2
+  origversion: null
+  status: newest
+  summary: programming language
+  licenses:
+    - Apache Software License 2.0
+- repo: pclinuxos
+  srcname: groovy
+  visiblename: groovy
+  version: 2.3.9
+  origversion: 2.3.9-1pclos2015
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  categories:
+    - Development/Java
+  vulnerable: true
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.16
+  origversion: 2.4.16-2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  categories:
+    - java
+  vulnerable: true
+- repo: amazon_2
+  srcname: groovy
+  visiblename: groovy
+  version: 1.8.9
+  origversion: 1.8.9-8.amzn2
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Development/Languages
+  vulnerable: true
+- repo: centos_7
+  subrepo: os
+  srcname: groovy
+  visiblename: groovy
+  version: 1.8.9
+  origversion: 1.8.9-8.el7_4
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Development/Languages
+  vulnerable: true
+- repo: deepin_unstable
+  subrepo: main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.16
+  origversion: 2.4.16-2
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - fnatter@gmx.net
+  vulnerable: true
+- repo: gnuguix
+  srcname: groovy
+  binname: groovy
+  visiblename: groovy
+  version: 3.0.5
+  origversion: null
+  status: outdated
+  summary: Programming language for the JVM
+  vulnerable: true
+- repo: openeuler_22_03_lts_sp1
+  srcname: groovy
+  binnames:
+    - groovy
+  visiblename: groovy
+  version: 2.4.8
+  origversion: 2.4.8-11.oe2203sp1
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL-1.0 and Public Domain and ANTLR-PD and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_20_03_lts_sp3
+  srcname: groovy
+  visiblename: groovy
+  version: 2.4.8
+  origversion: 2.4.8-9.oe1
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL-1.0 and Public Domain and ANTLR-PD and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_20_03_lts_sp3
+  srcname: groovy18
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-1.oe1
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_20_03_lts_sp4
+  srcname: groovy
+  visiblename: groovy
+  version: 2.4.8
+  origversion: 2.4.8-11.oe2003sp4
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL-1.0 and Public Domain and ANTLR-PD and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_20_03_lts_sp4
+  srcname: groovy18
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-1.oe2003sp4
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_22_03_lts_sp1
+  srcname: groovy18
+  binnames:
+    - groovy18
+    - groovy18-lib
+    - groovy18-javadoc
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-1.oe2203sp1
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_22_03_lts_sp3
+  srcname: groovy
+  binnames:
+    - groovy
+  visiblename: groovy
+  version: 2.4.8
+  origversion: 2.4.8-11.oe2203sp3
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL-1.0 and Public Domain and ANTLR-PD and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_22_03_lts_sp3
+  srcname: groovy18
+  binnames:
+    - groovy18
+    - groovy18-lib
+    - groovy18-javadoc
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-1.oe2203sp3
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_22_03_lts_sp4
+  srcname: groovy
+  binnames:
+    - groovy
+  visiblename: groovy
+  version: 2.4.8
+  origversion: 2.4.8-13.oe2203sp4
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL-1.0 and Public Domain and ANTLR-PD and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_22_03_lts_sp4
+  srcname: groovy18
+  binnames:
+    - groovy18
+    - groovy18-lib
+    - groovy18-javadoc
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-4.oe2203sp4
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL-1.0 and Public Domain and CPL-1.0
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_03_lts
+  srcname: groovy
+  binnames:
+    - groovy
+  visiblename: groovy
+  version: 2.4.8
+  origversion: 2.4.8-13.oe2403
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD-3-Clause and EPL-1.0 and Public Domain and ANTLR-PD and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_03_lts
+  srcname: groovy18
+  binnames:
+    - groovy18
+    - groovy18-lib
+    - groovy18-javadoc
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-4.oe2403
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_03_lts_sp1
+  srcname: groovy
+  binnames:
+    - groovy
+  visiblename: groovy
+  version: 2.4.8
+  origversion: 2.4.8-13.oe2403sp1
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD-3-Clause and EPL-1.0 and Public Domain and ANTLR-PD and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_03_lts_sp1
+  srcname: groovy18
+  binnames:
+    - groovy18
+    - groovy18-lib
+    - groovy18-javadoc
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-5.oe2403sp1
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL-1.0 and Public Domain and CC-BY-2.5
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_09
+  srcname: groovy
+  binnames:
+    - groovy
+  visiblename: groovy
+  version: 2.4.8
+  origversion: 2.4.8-13.oe2409
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD-3-Clause and EPL-1.0 and Public Domain and ANTLR-PD and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_24_09
+  srcname: groovy18
+  binnames:
+    - groovy18
+    - groovy18-lib
+    - groovy18-javadoc
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-5.oe2409
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL-1.0 and Public Domain and CC-BY-2.5
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_25_03
+  srcname: groovy
+  binnames:
+    - groovy
+  visiblename: groovy
+  version: 2.4.8
+  origversion: 2.4.8-13.oe2503
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD-3-Clause and EPL-1.0 and Public Domain and ANTLR-PD and MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openeuler_25_03
+  srcname: groovy18
+  binnames:
+    - groovy18
+    - groovy18-lib
+    - groovy18-javadoc
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-5.oe2503
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - ASL 2.0 and BSD and EPL-1.0 and Public Domain and CC-BY-2.5
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: groovy
+  visiblename: groovy
+  version: 1.8.9
+  origversion: 1.8.9-6.4
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  maintainers:
+    - cris@beebgames.com
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Development/Java
+  vulnerable: true
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: groovy
+  visiblename: groovy
+  version: 1.8.9
+  origversion: 1.8.9-6.4
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  maintainers:
+    - cris@beebgames.com
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Development/Java
+  vulnerable: true
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: groovy
+  visiblename: groovy
+  version: 1.8.9
+  origversion: 1.8.9-6.4
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  maintainers:
+    - cris@beebgames.com
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Development/Java
+  vulnerable: true
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: groovy18
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-150200.3.4.9
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Libraries/Java
+  vulnerable: true
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: groovy18
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-150200.3.4.9
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Libraries/Java
+  vulnerable: true
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: groovy1.7.2
+  binnames:
+    - libgroovy1.7.2-java
+  visiblename: groovy1.7.2
+  version: 1.7.2
+  origversion: 1.7.2-1
+  status: legacy
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - brian.thomason@eucalyptus.com
+  categories:
+    - java
+  vulnerable: true
+- repo: raspbian_stable
+  subrepo: main
+  srcname: groovy1.7.2
+  binnames:
+    - libgroovy1.7.2-java
+  visiblename: groovy1.7.2
+  version: 1.7.2
+  origversion: 1.7.2-1
+  status: legacy
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - brian.thomason@eucalyptus.com
+  categories:
+    - java
+  vulnerable: true
+- repo: raspbian_testing
+  subrepo: main
+  srcname: groovy1.7.2
+  binnames:
+    - libgroovy1.7.2-java
+  visiblename: groovy1.7.2
+  version: 1.7.2
+  origversion: 1.7.2-1
+  status: legacy
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - brian.thomason@eucalyptus.com
+  categories:
+    - java
+  vulnerable: true
+- repo: rosa_2019_1
+  subrepo: main/release
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-lib
+    - groovy-ant
+    - groovy-bsf
+    - groovy-console
+    - groovy-docgenerator
+    - groovy-groovydoc
+    - groovy-groovysh
+    - groovy-jmx
+    - groovy-json
+    - groovy-jsr223
+    - groovy-nio
+    - groovy-servlet
+    - groovy-sql
+    - groovy-swing
+    - groovy-templates
+    - groovy-test
+    - groovy-testng
+    - groovy-xml
+  visiblename: groovy
+  version: 2.4.8
+  origversion: 2.4.8-10
+  status: outdated
+  summary: Dynamic language for the Java Platform
+  maintainers:
+    - a.proklov@rosalinux.ru
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Development/Java
+  vulnerable: true
+- repo: rosa_2019_1
+  subrepo: main/release
+  srcname: groovy18
+  binnames:
+    - groovy18
+    - groovy18-lib
+    - groovy18-javadoc
+  visiblename: groovy18
+  version: 1.8.9
+  origversion: 1.8.9-34
+  status: legacy
+  summary: Dynamic language for the Java Platform
+  maintainers:
+    - m.novosyolov@rosalinux.ru
+  licenses:
+    - ASL 2.0 and BSD and EPL and Public Domain and CC-BY
+  categories:
+    - Development/Java
+  vulnerable: true
+- repo: trisquel_10_0
+  subrepo: nabia/main
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.17
+  origversion: 2.4.17-4ubuntu1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+  vulnerable: true
+- repo: ubuntu_14_04
+  subrepo: trusty/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.0.0~beta2+isreally1.8.6
+  origversion: 2.0.0~beta2+isreally1.8.6-0ubuntu1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - ludovic.claude@laposte.net
+    - miguel@miguel.cc
+    - twerner@debian.org
+    - varun@debian.org
+  categories:
+    - universe/devel
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.0.0~beta2+isreally1.8.6
+  origversion: 2.0.0~beta2+isreally1.8.6-4ubuntu1
+  status: legacy
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - ludovic.claude@laposte.net
+    - nomadium@debian.org
+    - twerner@debian.org
+    - varun@debian.org
+  categories:
+    - universe/devel
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: groovy2
+  binnames:
+    - groovy2
+    - groovy2-doc
+  visiblename: groovy2
+  version: 2.4.5
+  origversion: 2.4.5-1
+  status: outdated
+  maintainers:
+    - pkg-java-maintainers@lists.alioth.debian.org
+    - nomadium@debian.org
+  categories:
+    - universe/misc
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic-updates/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.16
+  origversion: 2.4.16-1ubuntu1~18.04.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.15
+  origversion: 2.4.15-1ubuntu1
+  status: legacy
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+  vulnerable: true
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: groovy
+  binnames:
+    - groovy
+    - groovy-doc
+  visiblename: groovy
+  version: 2.4.17
+  origversion: 2.4.17-4ubuntu1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - fnatter@gmx.net
+  categories:
+    - universe/devel
+  vulnerable: true

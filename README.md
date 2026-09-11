@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1643 · **Open PRs**: 10 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23586
+- **Releases**: 0 · **Merged PRs**: 1643 · **Open PRs**: 11 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 134 | 1 | 0 | 0 | 302 |
-| last60d | 2026-07-12 | 0 | 208 | 2 | 0 | 0 | 451 |
-| 90d | 2026-06-12 | 0 | 283 | 5 | 0 | 0 | 602 |
-| last180d | 2026-03-14 | 0 | 464 | 6 | 0 | 0 | 1373 |
-| 360d | 2025-09-15 | 0 | 532 | 8 | 0 | 0 | 1707 |
-| last720d | 2024-09-20 | 0 | 678 | 8 | 0 | 0 | 2464 |
+| 30d | 2026-08-12 | 0 | 133 | 2 | 0 | 0 | 302 |
+| last60d | 2026-07-13 | 0 | 198 | 3 | 0 | 0 | 451 |
+| 90d | 2026-06-13 | 0 | 282 | 6 | 0 | 0 | 602 |
+| last180d | 2026-03-15 | 0 | 464 | 7 | 0 | 0 | 1373 |
+| 360d | 2025-09-16 | 0 | 530 | 9 | 0 | 0 | 1707 |
+| last720d | 2024-09-21 | 0 | 678 | 9 | 0 | 0 | 2463 |
 
 ## Distribution status
 
-Reported by **118** distros on [repology.org](https://repology.org/project/groovy). **8** are ✅ on the latest upstream release, **85** are ⚠️ on an older version.
+Reported by **118** distros on [repology.org](https://repology.org/project/groovy). **12** are ✅ on the latest upstream release, **81** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:43:19Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:00:25Z._

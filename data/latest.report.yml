@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:58:53Z
+  collectedAt: 2026-09-11T18:57:59Z
 timeline:
   created: 2015-04-16
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 5466
+  star: 5467
   watcher: 225
   fork: 1916
   release: 0
@@ -93,7 +93,7 @@ total:
   commit: 23586
 ---
 path: /home/runner/.x-repo/github.com/apache/groovy
-collectedAt: 2026-09-11T05:59:56Z
+collectedAt: 2026-09-11T18:58:41Z
 loc:
   Groovy:
     code: 336889

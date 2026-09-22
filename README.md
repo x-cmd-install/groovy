@@ -26,13 +26,13 @@ Total: **697,033** lines of code across **5094** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.7 / 10**
+Overall score: **7.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/22 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 5/25 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (-1/10) — no releases found
 
 ## Source
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,472 · **Forks**: 1,916 · **Open issues**: 0 · **Contributors**: 387
+- **Stars**: 5,473 · **Forks**: 1,915 · **Open issues**: 0 · **Contributors**: 387
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 113 | 6 | 0 | 0 | 226 |
-| last60d | 2026-07-23 | 0 | 198 | 6 | 0 | 0 | 438 |
-| 90d | 2026-06-23 | 0 | 288 | 9 | 0 | 0 | 588 |
-| last180d | 2026-03-25 | 0 | 477 | 10 | 0 | 0 | 1347 |
-| 360d | 2025-09-26 | 0 | 540 | 12 | 0 | 0 | 1720 |
-| last720d | 2024-10-01 | 0 | 697 | 12 | 0 | 0 | 2497 |
+| 30d | 2026-08-23 | 0 | 111 | 6 | 0 | 0 | 226 |
+| last60d | 2026-07-24 | 0 | 197 | 6 | 0 | 0 | 438 |
+| 90d | 2026-06-24 | 0 | 288 | 9 | 0 | 0 | 588 |
+| last180d | 2026-03-26 | 0 | 477 | 10 | 0 | 0 | 1347 |
+| 360d | 2025-09-27 | 0 | 540 | 12 | 0 | 0 | 1720 |
+| last720d | 2024-10-02 | 0 | 697 | 12 | 0 | 0 | 2496 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:20:45Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:23:21Z._

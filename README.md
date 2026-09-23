@@ -4,7 +4,7 @@
 
 Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 
-[![x-cmd/install — groovy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/groovy.svg)](https://x-cmd.com/install/groovy)
+[![x-cmd/install — groovy Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/groovy.svg)](https://x-cmd.com/install/groovy)
 
 ## Install
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1663 · **Open PRs**: 14 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23635
+- **Releases**: 0 · **Merged PRs**: 1664 · **Open PRs**: 13 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23636
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 111 | 6 | 0 | 0 | 226 |
-| last60d | 2026-07-24 | 0 | 197 | 6 | 0 | 0 | 438 |
-| 90d | 2026-06-24 | 0 | 288 | 9 | 0 | 0 | 588 |
-| last180d | 2026-03-26 | 0 | 477 | 10 | 0 | 0 | 1347 |
-| 360d | 2025-09-27 | 0 | 540 | 12 | 0 | 0 | 1720 |
-| last720d | 2024-10-02 | 0 | 697 | 12 | 0 | 0 | 2496 |
+| 30d | 2026-08-24 | 0 | 110 | 5 | 0 | 0 | 227 |
+| last60d | 2026-07-25 | 0 | 196 | 5 | 0 | 0 | 439 |
+| 90d | 2026-06-25 | 0 | 287 | 8 | 0 | 0 | 589 |
+| last180d | 2026-03-27 | 0 | 477 | 9 | 0 | 0 | 1348 |
+| 360d | 2025-09-28 | 0 | 541 | 11 | 0 | 0 | 1721 |
+| last720d | 2024-10-03 | 0 | 698 | 11 | 0 | 0 | 2497 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:23:21Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:28:30Z._

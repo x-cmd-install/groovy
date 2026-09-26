@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1665 · **Open PRs**: 13 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23641
+- **Releases**: 0 · **Merged PRs**: 1665 · **Open PRs**: 14 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23642
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 107 | 5 | 0 | 0 | 232 |
-| last60d | 2026-07-27 | 0 | 193 | 5 | 0 | 0 | 444 |
-| 90d | 2026-06-27 | 0 | 281 | 8 | 0 | 0 | 594 |
-| last180d | 2026-03-29 | 0 | 472 | 9 | 0 | 0 | 1353 |
-| 360d | 2025-09-30 | 0 | 542 | 11 | 0 | 0 | 1726 |
-| last720d | 2024-10-05 | 0 | 699 | 11 | 0 | 0 | 2502 |
+| 30d | 2026-08-27 | 0 | 102 | 6 | 0 | 0 | 233 |
+| last60d | 2026-07-28 | 0 | 190 | 6 | 0 | 0 | 445 |
+| 90d | 2026-06-28 | 0 | 276 | 9 | 0 | 0 | 595 |
+| last180d | 2026-03-30 | 0 | 468 | 10 | 0 | 0 | 1354 |
+| 360d | 2025-10-01 | 0 | 541 | 12 | 0 | 0 | 1727 |
+| last720d | 2024-10-06 | 0 | 699 | 12 | 0 | 0 | 2501 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:18:10Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:55:39Z._

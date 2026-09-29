@@ -26,11 +26,11 @@ Total: **697,001** lines of code across **5094** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.8 / 10**
+Overall score: **7.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/25 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (-1/10) — no releases found
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,473 · **Forks**: 1,915 · **Open issues**: 0 · **Contributors**: 387
+- **Stars**: 5,472 · **Forks**: 1,915 · **Open issues**: 0 · **Contributors**: 387
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 98 | 6 | 0 | 0 | 179 |
-| last60d | 2026-07-30 | 0 | 184 | 6 | 0 | 0 | 406 |
-| 90d | 2026-06-30 | 0 | 269 | 9 | 0 | 0 | 560 |
-| last180d | 2026-04-01 | 0 | 465 | 10 | 0 | 0 | 1319 |
-| 360d | 2025-10-03 | 0 | 543 | 11 | 0 | 0 | 1719 |
-| last720d | 2024-10-08 | 0 | 702 | 12 | 0 | 0 | 2503 |
+| 30d | 2026-08-30 | 0 | 96 | 6 | 0 | 0 | 179 |
+| last60d | 2026-07-31 | 0 | 184 | 6 | 0 | 0 | 406 |
+| 90d | 2026-07-01 | 0 | 268 | 9 | 0 | 0 | 560 |
+| last180d | 2026-04-02 | 0 | 462 | 10 | 0 | 0 | 1319 |
+| 360d | 2025-10-04 | 0 | 542 | 11 | 0 | 0 | 1719 |
+| last720d | 2024-10-09 | 0 | 701 | 12 | 0 | 0 | 2502 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:31:04Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:51:46Z._

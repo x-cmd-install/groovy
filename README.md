@@ -26,11 +26,11 @@ Total: **696,792** lines of code across **5094** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.7 / 10**
+Overall score: **7.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 2/22 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (-1/10) — no releases found
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 64 | 8 | 0 | 0 | 61 |
-| last60d | 2026-08-06 | 0 | 171 | 8 | 0 | 0 | 370 |
-| 90d | 2026-07-07 | 0 | 253 | 10 | 0 | 0 | 525 |
-| last180d | 2026-04-08 | 0 | 447 | 12 | 0 | 0 | 1254 |
-| 360d | 2025-10-10 | 0 | 540 | 13 | 0 | 0 | 1709 |
-| last720d | 2024-10-15 | 0 | 703 | 14 | 0 | 0 | 2495 |
+| 30d | 2026-09-06 | 0 | 51 | 8 | 0 | 0 | 61 |
+| last60d | 2026-08-07 | 0 | 170 | 8 | 0 | 0 | 370 |
+| 90d | 2026-07-08 | 0 | 249 | 9 | 0 | 0 | 525 |
+| last180d | 2026-04-09 | 0 | 446 | 12 | 0 | 0 | 1254 |
+| 360d | 2025-10-11 | 0 | 540 | 13 | 0 | 0 | 1709 |
+| last720d | 2024-10-16 | 0 | 703 | 14 | 0 | 0 | 2494 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:52:47Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:38:07Z._

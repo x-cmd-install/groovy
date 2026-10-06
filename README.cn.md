@@ -26,11 +26,11 @@ x install groovy
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.7 / 10**
+总评分: **7.6 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 2/22 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (-1/10) — no releases found
 
@@ -52,12 +52,12 @@ x install groovy
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 64 | 8 | 0 | 0 | 61 |
-| last60d | 2026-08-06 | 0 | 171 | 8 | 0 | 0 | 370 |
-| 90d | 2026-07-07 | 0 | 253 | 10 | 0 | 0 | 525 |
-| last180d | 2026-04-08 | 0 | 447 | 12 | 0 | 0 | 1254 |
-| 360d | 2025-10-10 | 0 | 540 | 13 | 0 | 0 | 1709 |
-| last720d | 2024-10-15 | 0 | 703 | 14 | 0 | 0 | 2495 |
+| 30d | 2026-09-06 | 0 | 51 | 8 | 0 | 0 | 61 |
+| last60d | 2026-08-07 | 0 | 170 | 8 | 0 | 0 | 370 |
+| 90d | 2026-07-08 | 0 | 249 | 9 | 0 | 0 | 525 |
+| last180d | 2026-04-09 | 0 | 446 | 12 | 0 | 0 | 1254 |
+| 360d | 2025-10-11 | 0 | 540 | 13 | 0 | 0 | 1709 |
+| last720d | 2024-10-16 | 0 | 703 | 14 | 0 | 0 | 2494 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ groovy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T06:52:48Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T07:38:08Z._

@@ -22,7 +22,7 @@ Total: **696,796** lines of code across **5094** files in the top 5 languages.
 | Java | 254,085 | 194,608 | 44,297 | 2205 |
 | AsciiDoc | 49,277 | 387 | 14,767 | 117 |
 | Json | 5,112 | 0 | 34 | 7 |
-| Xml | 4,429 | 635 | 107 | 21 |
+| Xml | 4,429 | 636 | 107 | 21 |
 
 ## OpenSSF Scorecard
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,478 · **Forks**: 1,915 · **Open issues**: 0 · **Contributors**: 387
+- **Stars**: 5,477 · **Forks**: 1,914 · **Open issues**: 0 · **Contributors**: 387
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1673 · **Open PRs**: 20 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23653
+- **Releases**: 0 · **Merged PRs**: 1674 · **Open PRs**: 19 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23654
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 33 | 12 | 0 | 0 | 63 |
-| last60d | 2026-08-10 | 0 | 166 | 12 | 0 | 0 | 372 |
-| 90d | 2026-07-11 | 0 | 243 | 13 | 0 | 0 | 527 |
-| last180d | 2026-04-12 | 0 | 440 | 16 | 0 | 0 | 1256 |
-| 360d | 2025-10-14 | 0 | 541 | 17 | 0 | 0 | 1711 |
-| last720d | 2024-10-19 | 0 | 706 | 18 | 0 | 0 | 2489 |
+| 30d | 2026-09-10 | 0 | 30 | 11 | 0 | 0 | 64 |
+| last60d | 2026-08-11 | 0 | 165 | 11 | 0 | 0 | 373 |
+| 90d | 2026-07-12 | 0 | 239 | 12 | 0 | 0 | 528 |
+| last180d | 2026-04-13 | 0 | 439 | 15 | 0 | 0 | 1257 |
+| 360d | 2025-10-15 | 0 | 542 | 16 | 0 | 0 | 1712 |
+| last720d | 2024-10-20 | 0 | 707 | 17 | 0 | 0 | 2490 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:09:42Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:48:20Z._

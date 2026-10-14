@@ -14,13 +14,13 @@ x install groovy
 
 ## Code insight
 
-Total: **715,737** lines of code across **5183** files in the top 5 languages.
+Total: **716,087** lines of code across **5184** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 383,569 | 101,475 | 55,036 | 2776 |
-| Java | 263,730 | 197,381 | 45,342 | 2260 |
-| AsciiDoc | 49,754 | 395 | 14,887 | 119 |
+| Groovy | 383,643 | 101,481 | 55,045 | 2776 |
+| Java | 263,787 | 197,452 | 45,349 | 2260 |
+| AsciiDoc | 49,973 | 397 | 14,974 | 120 |
 | Json | 5,112 | 0 | 34 | 7 |
 | Xml | 4,458 | 638 | 107 | 21 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,476 · **Forks**: 1,914 · **Open issues**: 0 · **Contributors**: 387
+- **Stars**: 5,476 · **Forks**: 1,913 · **Open issues**: 0 · **Contributors**: 387
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1680 · **Open PRs**: 25 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23662
+- **Releases**: 0 · **Merged PRs**: 1685 · **Open PRs**: 21 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23667
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 26 | 17 | 0 | 0 | 34 |
-| last60d | 2026-08-14 | 0 | 167 | 17 | 0 | 0 | 310 |
-| 90d | 2026-07-15 | 0 | 232 | 18 | 0 | 0 | 497 |
-| last180d | 2026-04-16 | 0 | 444 | 21 | 0 | 0 | 1185 |
-| 360d | 2025-10-18 | 0 | 548 | 22 | 0 | 0 | 1709 |
-| last720d | 2024-10-23 | 0 | 713 | 23 | 0 | 0 | 2487 |
+| 30d | 2026-09-14 | 0 | 28 | 12 | 0 | 0 | 39 |
+| last60d | 2026-08-15 | 0 | 168 | 13 | 0 | 0 | 315 |
+| 90d | 2026-07-16 | 0 | 236 | 13 | 0 | 0 | 502 |
+| last180d | 2026-04-17 | 0 | 447 | 17 | 0 | 0 | 1190 |
+| 360d | 2025-10-19 | 0 | 553 | 18 | 0 | 0 | 1714 |
+| last720d | 2024-10-24 | 0 | 718 | 19 | 0 | 0 | 2490 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:12:21Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:02:16Z._

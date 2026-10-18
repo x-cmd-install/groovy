@@ -14,7 +14,7 @@ x install groovy
 
 ## Code insight
 
-Total: **716,635** lines of code across **5186** files in the top 5 languages.
+Total: **716,632** lines of code across **5186** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,476 · **Forks**: 1,911 · **Open issues**: 0 · **Contributors**: 387
+- **Stars**: 5,475 · **Forks**: 1,911 · **Open issues**: 0 · **Contributors**: 387
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1689 · **Open PRs**: 19 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23671
+- **Releases**: 0 · **Merged PRs**: 1691 · **Open PRs**: 21 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23673
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 27 | 10 | 0 | 0 | 43 |
-| last60d | 2026-08-18 | 0 | 146 | 11 | 0 | 0 | 319 |
-| 90d | 2026-07-19 | 0 | 232 | 11 | 0 | 0 | 506 |
-| last180d | 2026-04-20 | 0 | 444 | 15 | 0 | 0 | 1194 |
-| 360d | 2025-10-22 | 0 | 556 | 16 | 0 | 0 | 1718 |
-| last720d | 2024-10-27 | 0 | 722 | 17 | 0 | 0 | 2486 |
+| 30d | 2026-09-18 | 0 | 27 | 12 | 0 | 0 | 34 |
+| last60d | 2026-08-19 | 0 | 146 | 13 | 0 | 0 | 283 |
+| 90d | 2026-07-20 | 0 | 233 | 13 | 0 | 0 | 479 |
+| last180d | 2026-04-21 | 0 | 445 | 17 | 0 | 0 | 1080 |
+| 360d | 2025-10-23 | 0 | 557 | 18 | 0 | 0 | 1714 |
+| last720d | 2024-10-28 | 0 | 724 | 19 | 0 | 0 | 2484 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:21:10Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:32:03Z._

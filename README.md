@@ -14,15 +14,15 @@ x install groovy
 
 ## Code insight
 
-Total: **717,220** lines of code across **5187** files in the top 5 languages.
+Total: **717,613** lines of code across **5190** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 384,689 | 101,591 | 55,198 | 2779 |
-| Java | 263,876 | 197,466 | 45,354 | 2260 |
-| AsciiDoc | 49,974 | 397 | 14,974 | 120 |
+| Groovy | 384,988 | 101,661 | 55,227 | 2782 |
+| Java | 263,961 | 197,524 | 45,368 | 2260 |
+| AsciiDoc | 49,994 | 397 | 14,975 | 120 |
 | Json | 5,112 | 0 | 34 | 7 |
-| Xml | 4,458 | 638 | 107 | 21 |
+| Xml | 4,443 | 638 | 107 | 21 |
 
 ## OpenSSF Scorecard
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,474 · **Forks**: 1,911 · **Open issues**: 0 · **Contributors**: 387
+- **Stars**: 5,474 · **Forks**: 1,912 · **Open issues**: 0 · **Contributors**: 387
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1692 · **Open PRs**: 24 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23674
+- **Releases**: 0 · **Merged PRs**: 1696 · **Open PRs**: 19 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 28 | 14 | 0 | 0 | 35 |
-| last60d | 2026-08-20 | 0 | 146 | 16 | 0 | 0 | 284 |
-| 90d | 2026-07-21 | 0 | 233 | 16 | 0 | 0 | 480 |
-| last180d | 2026-04-22 | 0 | 441 | 20 | 0 | 0 | 1081 |
-| 360d | 2025-10-24 | 0 | 558 | 21 | 0 | 0 | 1715 |
-| last720d | 2024-10-29 | 0 | 725 | 22 | 0 | 0 | 2484 |
+| 30d | 2026-09-20 | 0 | 30 | 11 | 0 | 0 | 43 |
+| last60d | 2026-08-21 | 0 | 149 | 13 | 0 | 0 | 292 |
+| 90d | 2026-07-22 | 0 | 233 | 13 | 0 | 0 | 488 |
+| last180d | 2026-04-23 | 0 | 445 | 17 | 0 | 0 | 1089 |
+| 360d | 2025-10-25 | 0 | 561 | 18 | 0 | 0 | 1723 |
+| last720d | 2024-10-30 | 0 | 729 | 19 | 0 | 0 | 2492 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:41:09Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:56:58Z._

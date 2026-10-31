@@ -2,114 +2,114 @@ about:
   description: "Apache Groovy: A powerful multi-faceted programming language for the JVM platform"
   license: Apache-2.0
   homepage: https://groovy-lang.org
-  head: 921aac1
+  head: ef76fcb
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:54:58Z
+  collectedAt: 2026-10-31T06:54:31Z
 timeline:
   created: 2015-04-16
-  lastCommit: 2026-10-30
+  lastCommit: 2026-10-31
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 5483
+  star: 5482
   watcher: 220
   fork: 1916
   release: 0
   contributor: 387
-  pullRequest: 3098
+  pullRequest: 3139
   issue: 0
 language:
-  Groovy: 21601604
-  Java: 20209321
-  Shell: 110297
+  Groovy: 21934024
+  Java: 20444309
+  Shell: 112073
   HTML: 91653
-  ANTLR: 76140
+  ANTLR: 76377
   CSS: 58210
-  Batchfile: 26016
+  Batchfile: 27455
   Python: 18287
   Go Template: 5921
   JavaScript: 4659
   Smarty: 1904
-totalBytes: 42204012
+totalBytes: 42774872
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
-    mergedPR: 90
-    openPR: 60
+    mergedPR: 109
+    openPR: 79
     closedIssue: 0
     openIssue: 0
-    commit: 121
+    commit: 194
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
-    mergedPR: 188
-    openPR: 62
+    mergedPR: 204
+    openPR: 81
     closedIssue: 0
     openIssue: 0
-    commit: 341
+    commit: 414
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
-    mergedPR: 277
-    openPR: 62
+    mergedPR: 294
+    openPR: 81
     closedIssue: 0
     openIssue: 0
-    commit: 539
+    commit: 612
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 0
-    mergedPR: 487
-    openPR: 66
+    mergedPR: 501
+    openPR: 85
     closedIssue: 0
     openIssue: 0
-    commit: 1084
+    commit: 1157
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 0
-    mergedPR: 623
-    openPR: 67
+    mergedPR: 641
+    openPR: 86
     closedIssue: 0
     openIssue: 0
-    commit: 1810
+    commit: 1883
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 0
-    mergedPR: 793
-    openPR: 68
+    mergedPR: 811
+    openPR: 87
     closedIssue: 0
     openIssue: 0
-    commit: 2575
+    commit: 2644
 total:
   release: 0
-  mergedPR: 1761
-  openPR: 68
+  mergedPR: 1780
+  openPR: 87
   closedIssue: 0
   openIssue: 0
-  commit: 23775
+  commit: 23848
 ---
 path: /home/runner/.x-repo/github.com/apache/groovy
-collectedAt: 2026-10-30T06:55:43Z
+collectedAt: 2026-10-31T06:55:08Z
 loc:
   Groovy:
-    code: 400427
-    comments: 104493
-    blanks: 56836
-    files: 2846
+    code: 407417
+    comments: 105099
+    blanks: 57599
+    files: 2867
   Java:
-    code: 268367
-    comments: 199692
-    blanks: 45862
-    files: 2279
+    code: 272096
+    comments: 201052
+    blanks: 46299
+    files: 2297
   AsciiDoc:
-    code: 51102
-    comments: 400
-    blanks: 15256
-    files: 122
+    code: 51305
+    comments: 405
+    blanks: 15313
+    files: 124
   Json:
     code: 5112
     comments: 0
@@ -172,19 +172,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 4044
-    blanks: 714
-    files: 12
+    comments: 4381
+    blanks: 782
+    files: 14
   Text:
     code: 0
-    comments: 1851
+    comments: 1853
     blanks: 460
     files: 74
 total:
-  code: 739037
-  comments: 313692
-  blanks: 120648
-  files: 5507
+  code: 749959
+  comments: 316002
+  blanks: 121973
+  files: 5550
 ---
 date: "2026-10-26"
 repo:

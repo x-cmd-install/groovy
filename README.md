@@ -14,12 +14,12 @@ x install groovy
 
 ## Code insight
 
-Total: **751,987** lines of code across **5320** files in the top 5 languages.
+Total: **752,289** lines of code across **5320** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 409,441 | 105,343 | 57,786 | 2871 |
-| Java | 272,475 | 201,234 | 46,337 | 2297 |
+| Groovy | 409,723 | 105,357 | 57,798 | 2871 |
+| Java | 272,495 | 201,266 | 46,341 | 2297 |
 | AsciiDoc | 51,305 | 405 | 15,313 | 124 |
 | Json | 5,112 | 0 | 34 | 7 |
 | Xml | 4,530 | 639 | 107 | 21 |
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1792 · **Open PRs**: 82 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23869
+- **Releases**: 0 · **Merged PRs**: 1794 · **Open PRs**: 82 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23876
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 121 | 75 | 0 | 0 | 210 |
-| last60d | 2026-09-02 | 0 | 202 | 77 | 0 | 0 | 306 |
-| 90d | 2026-08-03 | 0 | 302 | 77 | 0 | 0 | 596 |
-| last180d | 2026-05-05 | 0 | 512 | 80 | 0 | 0 | 1103 |
-| 360d | 2025-11-06 | 0 | 653 | 81 | 0 | 0 | 1900 |
-| last720d | 2024-11-11 | 0 | 822 | 82 | 0 | 0 | 2665 |
+| 30d | 2026-10-03 | 0 | 123 | 76 | 0 | 0 | 217 |
+| last60d | 2026-09-03 | 0 | 198 | 77 | 0 | 0 | 313 |
+| 90d | 2026-08-04 | 0 | 299 | 77 | 0 | 0 | 603 |
+| last180d | 2026-05-06 | 0 | 513 | 80 | 0 | 0 | 1110 |
+| 360d | 2025-11-07 | 0 | 654 | 81 | 0 | 0 | 1907 |
+| last720d | 2024-11-12 | 0 | 824 | 82 | 0 | 0 | 2672 |
 
 ## Distribution status
 
-Reported by **117** distros on [repology.org](https://repology.org/project/groovy). **18** are ✅ on the latest upstream release, **71** are ⚠️ on an older version.
+Reported by **118** distros on [repology.org](https://repology.org/project/groovy). **17** are ✅ on the latest upstream release, **73** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:14:39Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:22:13Z._

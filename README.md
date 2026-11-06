@@ -14,13 +14,13 @@ x install groovy
 
 ## Code insight
 
-Total: **753,431** lines of code across **5328** files in the top 5 languages.
+Total: **756,089** lines of code across **5341** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 410,622 | 105,595 | 57,889 | 2877 |
-| Java | 272,667 | 201,398 | 46,384 | 2299 |
-| AsciiDoc | 51,391 | 405 | 15,326 | 124 |
+| Groovy | 412,827 | 105,965 | 58,116 | 2886 |
+| Java | 273,066 | 201,646 | 46,436 | 2303 |
+| AsciiDoc | 51,445 | 405 | 15,337 | 124 |
 | Json | 5,112 | 0 | 34 | 7 |
 | Xml | 4,509 | 639 | 107 | 21 |
 
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1815 · **Open PRs**: 115 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23918
+- **Releases**: 0 · **Merged PRs**: 1834 · **Open PRs**: 113 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23953
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 141 | 110 | 0 | 0 | 257 |
-| last60d | 2026-09-06 | 0 | 196 | 110 | 0 | 0 | 354 |
-| 90d | 2026-08-07 | 0 | 315 | 110 | 0 | 0 | 644 |
-| last180d | 2026-05-09 | 0 | 531 | 113 | 0 | 0 | 1151 |
-| 360d | 2025-11-10 | 0 | 674 | 114 | 0 | 0 | 1948 |
-| last720d | 2024-11-15 | 0 | 844 | 115 | 0 | 0 | 2711 |
+| 30d | 2026-10-07 | 0 | 160 | 108 | 0 | 0 | 292 |
+| last60d | 2026-09-07 | 0 | 210 | 108 | 0 | 0 | 389 |
+| 90d | 2026-08-08 | 0 | 333 | 108 | 0 | 0 | 679 |
+| last180d | 2026-05-10 | 0 | 545 | 111 | 0 | 0 | 1186 |
+| 360d | 2025-11-11 | 0 | 691 | 112 | 0 | 0 | 1983 |
+| last720d | 2024-11-16 | 0 | 863 | 113 | 0 | 0 | 2746 |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:07:12Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:56:40Z._

@@ -14,13 +14,13 @@ x install groovy
 
 ## Code insight
 
-Total: **756,089** lines of code across **5341** files in the top 5 languages.
+Total: **765,415** lines of code across **5356** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 412,827 | 105,965 | 58,116 | 2886 |
-| Java | 273,066 | 201,646 | 46,436 | 2303 |
-| AsciiDoc | 51,445 | 405 | 15,337 | 124 |
+| Groovy | 419,978 | 106,474 | 58,594 | 2894 |
+| Java | 275,105 | 202,716 | 46,710 | 2310 |
+| AsciiDoc | 51,581 | 405 | 15,363 | 124 |
 | Json | 5,112 | 0 | 34 | 7 |
 | Xml | 4,509 | 639 | 107 | 21 |
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,481 · **Forks**: 1,915 · **Open issues**: 0 · **Contributors**: 388
+- **Stars**: 5,482 · **Forks**: 1,914 · **Open issues**: 0 · **Contributors**: 387
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1834 · **Open PRs**: 113 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23953
+- **Releases**: 0 · **Merged PRs**: 1841 · **Open PRs**: 107 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 23990
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 160 | 108 | 0 | 0 | 292 |
-| last60d | 2026-09-07 | 0 | 210 | 108 | 0 | 0 | 389 |
-| 90d | 2026-08-08 | 0 | 333 | 108 | 0 | 0 | 679 |
-| last180d | 2026-05-10 | 0 | 545 | 111 | 0 | 0 | 1186 |
-| 360d | 2025-11-11 | 0 | 691 | 112 | 0 | 0 | 1983 |
-| last720d | 2024-11-16 | 0 | 863 | 113 | 0 | 0 | 2746 |
+| 30d | 2026-10-08 | 0 | 158 | 102 | 0 | 0 | 329 |
+| last60d | 2026-09-08 | 0 | 217 | 102 | 0 | 0 | 427 |
+| 90d | 2026-08-09 | 0 | 335 | 102 | 0 | 0 | 717 |
+| last180d | 2026-05-11 | 0 | 549 | 105 | 0 | 0 | 1224 |
+| 360d | 2025-11-12 | 0 | 697 | 106 | 0 | 0 | 2021 |
+| last720d | 2024-11-17 | 0 | 870 | 107 | 0 | 0 | 2783 |
 
 ## Distribution status
 
-Reported by **118** distros on [repology.org](https://repology.org/project/groovy). **17** are ✅ on the latest upstream release, **73** are ⚠️ on an older version.
+Reported by **118** distros on [repology.org](https://repology.org/project/groovy). **21** are ✅ on the latest upstream release, **69** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:56:40Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:08:37Z._

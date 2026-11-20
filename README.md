@@ -14,12 +14,12 @@ x install groovy
 
 ## Code insight
 
-Total: **781,433** lines of code across **5397** files in the top 5 languages.
+Total: **781,581** lines of code across **5398** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 431,332 | 108,657 | 59,754 | 2922 |
-| Java | 279,092 | 223,974 | 47,230 | 2323 |
+| Groovy | 431,458 | 108,683 | 59,779 | 2923 |
+| Java | 279,114 | 224,006 | 47,241 | 2323 |
 | AsciiDoc | 52,180 | 405 | 15,484 | 124 |
 | Json | 5,166 | 0 | 34 | 7 |
 | Xml | 4,527 | 643 | 107 | 21 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,484 · **Forks**: 1,914 · **Open issues**: 0 · **Contributors**: 388
+- **Stars**: 5,485 · **Forks**: 1,914 · **Open issues**: 0 · **Contributors**: 388
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1895 · **Open PRs**: 84 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 24141
+- **Releases**: 0 · **Merged PRs**: 1896 · **Open PRs**: 86 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 24147
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 185 | 80 | 0 | 0 | 428 |
-| last60d | 2026-09-20 | 0 | 227 | 80 | 0 | 0 | 497 |
-| 90d | 2026-08-21 | 0 | 347 | 80 | 0 | 0 | 763 |
-| last180d | 2026-05-23 | 0 | 579 | 81 | 0 | 0 | 1259 |
-| 360d | 2025-11-24 | 0 | 744 | 83 | 0 | 0 | 2149 |
-| last720d | 2024-11-29 | 0 | 920 | 84 | 0 | 0 | 2919 |
+| 30d | 2026-10-21 | 0 | 178 | 82 | 0 | 0 | 434 |
+| last60d | 2026-09-21 | 0 | 228 | 82 | 0 | 0 | 503 |
+| 90d | 2026-08-22 | 0 | 345 | 82 | 0 | 0 | 769 |
+| last180d | 2026-05-24 | 0 | 575 | 83 | 0 | 0 | 1265 |
+| 360d | 2025-11-25 | 0 | 744 | 85 | 0 | 0 | 2155 |
+| last720d | 2024-11-30 | 0 | 921 | 86 | 0 | 0 | 2924 |
 
 ## Distribution status
 
@@ -83,4 +83,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:33:26Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:20:54Z._

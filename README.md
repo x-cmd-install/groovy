@@ -14,12 +14,12 @@ x install groovy
 
 ## Code insight
 
-Total: **830,861** lines of code across **5644** files in the top 5 languages.
+Total: **830,919** lines of code across **5645** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 471,147 | 115,536 | 63,891 | 3129 |
-| Java | 288,040 | 228,320 | 48,195 | 2363 |
+| Groovy | 471,205 | 115,558 | 63,898 | 3130 |
+| Java | 288,040 | 228,321 | 48,195 | 2363 |
 | AsciiDoc | 52,792 | 405 | 15,609 | 124 |
 | Json | 5,175 | 0 | 34 | 7 |
 | Xml | 4,571 | 643 | 107 | 21 |
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1981 · **Open PRs**: 35 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 24365
+- **Releases**: 0 · **Merged PRs**: 1982 · **Open PRs**: 35 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 24366
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 217 | 30 | 0 | 0 | 532 |
-| last60d | 2026-09-26 | 0 | 312 | 31 | 0 | 0 | 710 |
-| 90d | 2026-08-27 | 0 | 417 | 31 | 0 | 0 | 940 |
-| last180d | 2026-05-29 | 0 | 652 | 32 | 0 | 0 | 1447 |
-| 360d | 2025-11-30 | 0 | 826 | 34 | 0 | 0 | 2356 |
-| last720d | 2024-12-05 | 0 | 1002 | 35 | 0 | 0 | 3111 |
+| 30d | 2026-10-27 | 0 | 213 | 29 | 0 | 0 | 533 |
+| last60d | 2026-09-27 | 0 | 310 | 31 | 0 | 0 | 711 |
+| 90d | 2026-08-28 | 0 | 415 | 31 | 0 | 0 | 941 |
+| last180d | 2026-05-30 | 0 | 652 | 32 | 0 | 0 | 1448 |
+| 360d | 2025-12-01 | 0 | 826 | 34 | 0 | 0 | 2357 |
+| last720d | 2024-12-06 | 0 | 1003 | 35 | 0 | 0 | 3112 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:17:36Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:54:39Z._

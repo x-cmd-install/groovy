@@ -14,13 +14,13 @@ x install groovy
 
 ## Code insight
 
-Total: **830,919** lines of code across **5645** files in the top 5 languages.
+Total: **832,296** lines of code across **5646** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Groovy | 471,205 | 115,558 | 63,898 | 3130 |
-| Java | 288,040 | 228,321 | 48,195 | 2363 |
-| AsciiDoc | 52,792 | 405 | 15,609 | 124 |
+| Groovy | 472,310 | 115,642 | 64,019 | 3131 |
+| Java | 288,265 | 228,439 | 48,224 | 2363 |
+| AsciiDoc | 52,839 | 405 | 15,620 | 124 |
 | Json | 5,175 | 0 | 34 | 7 |
 | Xml | 4,571 | 643 | 107 | 21 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,490 · **Forks**: 1,918 · **Open issues**: 0 · **Contributors**: 388
+- **Stars**: 5,491 · **Forks**: 1,918 · **Open issues**: 0 · **Contributors**: 388
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1982 · **Open PRs**: 35 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 24366
+- **Releases**: 0 · **Merged PRs**: 1992 · **Open PRs**: 23 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 24383
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 213 | 29 | 0 | 0 | 533 |
-| last60d | 2026-09-27 | 0 | 310 | 31 | 0 | 0 | 711 |
-| 90d | 2026-08-28 | 0 | 415 | 31 | 0 | 0 | 941 |
-| last180d | 2026-05-30 | 0 | 652 | 32 | 0 | 0 | 1448 |
-| 360d | 2025-12-01 | 0 | 826 | 34 | 0 | 0 | 2357 |
-| last720d | 2024-12-06 | 0 | 1003 | 35 | 0 | 0 | 3112 |
+| 30d | 2026-10-28 | 0 | 210 | 17 | 0 | 0 | 550 |
+| last60d | 2026-09-28 | 0 | 320 | 19 | 0 | 0 | 728 |
+| 90d | 2026-08-29 | 0 | 421 | 19 | 0 | 0 | 958 |
+| last180d | 2026-05-31 | 0 | 653 | 20 | 0 | 0 | 1465 |
+| 360d | 2025-12-02 | 0 | 835 | 22 | 0 | 0 | 2374 |
+| last720d | 2024-12-07 | 0 | 1013 | 23 | 0 | 0 | 3129 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:54:39Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:33:44Z._

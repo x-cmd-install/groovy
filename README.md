@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,491 · **Forks**: 1,918 · **Open issues**: 0 · **Contributors**: 388
+- **Stars**: 5,493 · **Forks**: 1,917 · **Open issues**: 0 · **Contributors**: 388
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1992 · **Open PRs**: 23 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 24383
+- **Releases**: 0 · **Merged PRs**: 1992 · **Open PRs**: 26 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 24383
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 210 | 17 | 0 | 0 | 550 |
-| last60d | 2026-09-28 | 0 | 320 | 19 | 0 | 0 | 728 |
-| 90d | 2026-08-29 | 0 | 421 | 19 | 0 | 0 | 958 |
-| last180d | 2026-05-31 | 0 | 653 | 20 | 0 | 0 | 1465 |
-| 360d | 2025-12-02 | 0 | 835 | 22 | 0 | 0 | 2374 |
-| last720d | 2024-12-07 | 0 | 1013 | 23 | 0 | 0 | 3129 |
+| 30d | 2026-10-29 | 0 | 192 | 20 | 0 | 0 | 550 |
+| last60d | 2026-09-29 | 0 | 320 | 22 | 0 | 0 | 728 |
+| 90d | 2026-08-30 | 0 | 419 | 22 | 0 | 0 | 958 |
+| last180d | 2026-06-01 | 0 | 651 | 23 | 0 | 0 | 1465 |
+| 360d | 2025-12-03 | 0 | 835 | 25 | 0 | 0 | 2374 |
+| last720d | 2024-12-08 | 0 | 1013 | 26 | 0 | 0 | 3129 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for groovy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:33:44Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:27:12Z._

@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:32:40Z
+  collectedAt: 2026-11-28T09:26:09Z
 timeline:
   created: 2015-04-16
   lastCommit: 2026-11-27
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 5491
+  star: 5493
   watcher: 215
-  fork: 1918
+  fork: 1917
   release: 0
   contributor: 388
-  pullRequest: 3355
+  pullRequest: 3358
   issue: 0
 language:
   Groovy: 25250616
@@ -37,63 +37,63 @@ language:
 totalBytes: 48214331
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
-    mergedPR: 210
-    openPR: 17
+    mergedPR: 192
+    openPR: 20
     closedIssue: 0
     openIssue: 0
     commit: 550
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 320
-    openPR: 19
+    openPR: 22
     closedIssue: 0
     openIssue: 0
     commit: 728
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 421
-    openPR: 19
+    mergedPR: 419
+    openPR: 22
     closedIssue: 0
     openIssue: 0
     commit: 958
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 653
-    openPR: 20
+    mergedPR: 651
+    openPR: 23
     closedIssue: 0
     openIssue: 0
     commit: 1465
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 835
-    openPR: 22
+    openPR: 25
     closedIssue: 0
     openIssue: 0
     commit: 2374
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 1013
-    openPR: 23
+    openPR: 26
     closedIssue: 0
     openIssue: 0
     commit: 3129
 total:
   release: 0
   mergedPR: 1992
-  openPR: 23
+  openPR: 26
   closedIssue: 0
   openIssue: 0
   commit: 24383
 ---
 path: /home/runner/.x-repo/github.com/apache/groovy
-collectedAt: 2026-11-27T10:33:24Z
+collectedAt: 2026-11-28T09:26:52Z
 loc:
   Groovy:
     code: 472310
